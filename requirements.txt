@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+transformers
+gensim
+faiss-cpu
+shap
+pyspark
+twilio
+joblib
+torch
+faker
