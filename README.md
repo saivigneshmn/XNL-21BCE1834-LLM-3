@@ -5,11 +5,12 @@ This project is a fraud detection system that leverages LLM embeddings and trans
 
 ## Architecture
 
-![image](https://github.com/user-attachments/assets/d0c8d628-77d0-485d-8454-56b7d72201bd)
+![image](https://github.com/user-attachments/assets/0484d84f-3b33-4b99-b0a3-90ee0c3e839d)
 
 ## Workflow
 
-![image](https://github.com/user-attachments/assets/f7ab76bd-89c1-49e8-978c-702b5982fbc2)
+![image](https://github.com/user-attachments/assets/824179ad-3e82-4b75-9b91-62bc1ed8f67c)
+
 
 ## Features
 - **Data Generation**: Simulates a massive transaction dataset.
@@ -47,15 +48,12 @@ docker build -t fraud-detection-pipeline .
 docker run --rm fraud-detection-pipeline
 
 ## Performance Benchmarks
-Metric	                     Value
-Similarity Search Latency	    10ms
-Model Accuracy	              92%
-Alert Latency	               < 1s
+Similarity Search Latency -----> 10ms || Model Accuracy -----> 92% || Alert Latency -----> <1s
 
 ## Comparative Analysis
-Method	              Accuracy	         Latency
-Baseline (Rule-Based)	  75%	              50ms
-LLM + ML Hybrid	        92%	              10ms
+Method	              | Accuracy | Latency
+Baseline (Rule-Based)  |  75%	    | 50ms
+LLM + ML Hybrid	     |  92%	    | 10ms
 
 
 ## Demo Video
