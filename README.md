@@ -51,9 +51,13 @@ docker run --rm fraud-detection-pipeline
 Similarity Search Latency -----> 10ms || Model Accuracy -----> 92% || Alert Latency -----> <1s
 
 ## Comparative Analysis 🚀
-✅ Baseline (Rule-Based) → 📊 75% Accuracy ⏳ 50ms Latency
-🤖 LLM + ML Hybrid → 🎯 92% Accuracy ⚡ 10ms Latency
-🔍 AI-driven models are faster & more accurate! 🚀
+
+✅ **Baseline (Rule-Based)**  
+📊 **75% Accuracy** ⏳ **50ms Latency**  
+
+🤖 **LLM + ML Hybrid**  
+🎯 **92% Accuracy** ⚡ **10ms Latency**  
+
 
 ## Demo Video
 Watch the Demo Video
