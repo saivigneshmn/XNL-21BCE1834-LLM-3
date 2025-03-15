@@ -5,7 +5,7 @@ This project is a fraud detection system that leverages LLM embeddings and trans
 
 ## Architecture
 
-![image](https://github.com/user-attachments/assets/32f37d15-70fe-473c-a0f1-e02c11656e45)
+![image](https://github.com/user-attachments/assets/99711335-7a29-405e-91d5-a763e416b562)
 
 ## Workflow
 
