@@ -48,7 +48,10 @@ docker build -t fraud-detection-pipeline .
 docker run --rm fraud-detection-pipeline
 
 ## Performance Benchmarks
-Similarity Search Latency -----> 10ms || Model Accuracy -----> 92% || Alert Latency -----> <1s
+🔍 **Similarity Search Latency** → ⚡ 10ms  
+🎯 **Model Accuracy** → 📊 92%  
+⏳ **Alert Latency** → 🚨 <1s  
+
 
 ## Comparative Analysis 🚀
 
